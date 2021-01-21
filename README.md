@@ -1,4 +1,4 @@
-<h1 align="center"> Game Engine 3 - Unreal Engine Assignment 3 </h1>
+<h1 align="center"> Game Engine 3 - Top-down RPG </h1>
 
 <p align="center"> ######################################################## </p>
 
